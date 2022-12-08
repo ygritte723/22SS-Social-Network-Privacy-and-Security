@@ -6,11 +6,7 @@ typora-copy-images-to: ./Part2.assets
 
 <h3 align = "center">Group 2</h3>
 
-<p align = "center">
-    Ruihuan He &nbsp;&nbsp; 3190101928<br>
-    Tianxiao Ren &nbsp;&nbsp; 3190105499<br>
-    Xinliu Zhong &nbsp;&nbsp; 3190105744<br>
-    Xiao Li &nbsp;&nbsp; 3190105728</p>
+
 
 
 <!--导出----导出设置----按一级标题分页-->
